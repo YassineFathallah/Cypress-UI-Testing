@@ -11,5 +11,8 @@
     "testing"
   ],
   "author": "YassineFa",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.0"
+  }
 }
